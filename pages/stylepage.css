@@ -61,6 +61,7 @@ img{
     padding: 16px 0;
     border-radius: 5px;
 }
+
 .display-style-btns button{
     border: none;
     font-size: 22px;
@@ -86,7 +87,7 @@ img{
   flex-wrap: wrap;
   align-items: center;
   justify-content: center;
-
+ margin: 5px 5px;
   row-gap: 10px;
   column-gap: 20px;
 
@@ -103,6 +104,7 @@ img{
   }
 .item{
     position: relative;
+    margin: 5px 5px;
     align-items: center;
     border: 1px rebeccapurple;
     transform: translateX(0);

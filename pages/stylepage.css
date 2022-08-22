@@ -7,7 +7,7 @@
 }
 body{
     background: #1a0327;
-    font-family: 'Poppins', sans-serif;
+   
 }
 img{
     width: 100%;
@@ -121,8 +121,8 @@ img{
 .item-img{
     
     transition: all 1s ease-in-out;
-    width: 200px;
-    height: 150px;
+    width: 150px;
+    height: 90px;
     object-fit: cover;
     border-radius: 20px;
     

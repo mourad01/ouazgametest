@@ -88,8 +88,7 @@ img{
   align-items: center;
   justify-content: center;
  margin: 5px 5px;
-  row-gap: 10px;
-  column-gap: 20px;
+  
 
     
     
@@ -123,8 +122,8 @@ img{
 .item-img{
     
     transition: all 1s ease-in-out;
-    width: 150px;
-    height: 90px;
+    width: 170px;
+    height: 100px;
     object-fit: cover;
     border-radius: 20px;
     
